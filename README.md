@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Adversarian/Adversarian/blob/master/adversarian.png" width=240 height=80>
+<img src="https://github.com/Adversarian/Adversarian/blob/main/adversarian.png" width=240 height=80>
 </p>
 
 # Greetings wanderer
