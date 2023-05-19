@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/Adversarian/Adversarian/blob/master/adversarian.png" width=240 height=80>
+</p>
+
 # Greetings wanderer
 
 🔮 Welcome, to the enchanted realm of my personal Github page! Within these virtual halls, you shall uncover the mysteries of **generative models**, unravel the secrets of **natural language processing**, and embark on a wondrous quest through the realms of **deep learning and machine learning**.
