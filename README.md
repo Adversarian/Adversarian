@@ -1,8 +1,8 @@
 # Greetings wanderer
 
-🔮 Welcome, to the enchanted realm of my personal Github page! Within these virtual halls, you shall uncover the mysteries of generative models, unravel the secrets of natural language processing, and embark on a wondrous quest through the realms of deep learning and machine learning.
+🔮 Welcome, to the enchanted realm of my personal Github page! Within these virtual halls, you shall uncover the mysteries of **generative models**, unravel the secrets of **natural language processing**, and embark on a wondrous quest through the realms of **deep learning and machine learning**.
 
-Prepare to delve into the arcane arts of PyTorch and Tensorflow, for I am a seasoned sorcerer who has honed their skills in the crucible of these powerful tools. With my trusty wand and spellbook, I have ventured into the depths of the code abyss, harnessing the forces of neural networks to bring forth astonishing creations.
+Prepare to delve into the arcane arts of **PyTorch** and **Tensorflow**, for I am a seasoned sorcerer who has honed their skills in the crucible of these powerful tools. With my trusty wand and spellbook, I have ventured into the depths of the code abyss, harnessing the forces of neural networks to bring forth astonishing creations.
 
 As we traverse the vast landscapes of data and algorithms, you shall witness the birth of intricate worlds crafted by generative models, where pixels dance to the whims of imagination, and dreams manifest as ethereal art. Together, we shall unlock the secrets of natural language processing, weaving enchanting spells that imbue machines with the power to comprehend and communicate in the human tongue.
 
