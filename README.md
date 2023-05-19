@@ -10,4 +10,7 @@ But fear not, for this is not a solitary journey. We shall forge a fellowship of
 
 So, dear traveler, whether you seek to expand your knowledge, create awe-inspiring innovations, or simply wander through the realms of code, I invite you to join me on this extraordinary adventure. Together, we shall unravel the mysteries of generative models, conquer the frontiers of natural language processing, and unlock the powers of deep learning and machine learning. Let our journey begin! ⚔️🔥🧙‍♀️
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Adversarian&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adversarian&show_icons=true&theme=dracula" alt="Adversarian's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adversarian&theme=dracula" alt="Adversarian's Github Streaks" />
+</p>
