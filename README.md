@@ -2,7 +2,7 @@
 <img src="https://github.com/Adversarian/Adversarian/blob/main/adversarian.png">
 </p>
 
-# Not all who wander all lost
+# Not all who wander are lost
 
 Greetings, honorable samurai, as you enter the realm of my GitHub domain. Within this solemn realm, I wield the formidable arts of **generative models**, **natural language processing**, **deep learning**, and **machine learning**.
 
