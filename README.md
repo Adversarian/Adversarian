@@ -8,7 +8,8 @@ Unite with me in this solemn quest, where challenges are faced with unwavering r
 
 Draw your blade, noble warrior, and embark on this profound odyssey. May honor and courage guide our way. 🌸⚔️🏯
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adversarian&show_icons=true&theme=dracula" alt="Adversarian's GitHub stats" /><br />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adversarian&show_icons=true&theme=dracula" alt="Adversarian's GitHub stats" /></p>
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adversarian&theme=dracula" alt="Adversarian's Github Streaks" />
 </p>
